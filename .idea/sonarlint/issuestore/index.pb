@@ -1,0 +1,23 @@
+
+”
+daigou-product-parent/aigou-product-interface/src/main/java/cn/itsource/aigou/domain/ProductType.java,d\7\d7e6582025c7e6ed3e775118b94d7da26d185bd4
+£
+saigou-product-parent/aigou-product-service/src/main/java/cn/itsource/aigou/service/impl/ProductTypeServiceImpl.java,a\4\a487fd1110453ead98139e1c2cd9df3e2ab8dee1
+ 
+paigou-product-parent/aigou-product-service/src/main/java/cn/itsource/aigou/controller/ProductTypeController.java,c\0\c0071b475c10e9165e4041bf29240bdd2310413f
+›
+kaigou-product-parent/aigou-product-service/src/main/java/cn/itsource/aigou/service/IProductTypeService.java,e\a\ea5768edaaf60a2b3a0c25f85d5c3e1e897d26c3
+ˆ
+Xaigou-plat-parent/aigou-plat-service/src/main/java/cn/itsource/plat/PlatApplication.java,f\c\fc77342a201dcc5532dae8d0806a8a52612afcdc
+‡
+Waigou-config-server/src/main/java/cn/itsource/configserver/ConfigServerApplication.java,e\8\e8615347b0083c19ce1e6747f3adca8967602dcf
+’
+baigou-product-parent/aigou-product-service/src/main/java/cn/itsource/aigou/ProductApplication.java,1\2\12619e8539d6d65ce2418625ae9c843278a9354c
+z
+Jaigou-eureka/src/main/java/cn/itsource/eureka/EurekaServerApplication.java,f\c\fc8e97e86faca33d87343c1d5b43e963e52e0696
+‹
+[aigou-basic-parent/aigou-basic-generator/src/main/java/cn/itsource/basic/CodeGenerator.java,f\5\f5b64f1490eec78e22660bb0774d69b4942564f0
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+B
+aigou-zuul/pom.xml,0\0\00a3f568174b03333f914b27c1335770460ddff4
